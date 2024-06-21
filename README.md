@@ -1,29 +1,3 @@
-# vue-ip-tracker
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+##Ip Address Tracker
+![chrome-capture](https://github.com/xJustFox/vue-ip-tracker/assets/114886277/fb3ab895-44a2-4f3d-9a08-83ddf8c3f739)
+![mobile-design](https://github.com/xJustFox/vue-ip-tracker/assets/114886277/15f5afcc-8e4f-4d6f-8ed8-8dba6fafc4a9)
